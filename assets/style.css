@@ -41,6 +41,6 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid rgb(1, 35, 88);
-    box-shadow: 5px 10px #57C3D6;
+    border: 5px solid rgb(16, 127, 174);
+    box-shadow: 5px 10px rgb(5, 60, 119);
   }
